@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f8ff;
+    color: #222;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    color: #0077cc;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Estilo de cada sección de deporte */
+.deporte {
+    background-color: #ffffff;
+    border-left: 8px solid #0077cc;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+}
+
+/* Títulos de cada deporte */
+.deporte h2 {
+    color: #005999;
+    margin-top: 0;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+    color: #666;
+}
